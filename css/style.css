@@ -288,7 +288,7 @@ gap: 30px;
 }
 
 .card_one_image {
-  background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/_12075__KAWS__HIGH_RES.jpg) ;
+  background-image: url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/_12075__KAWS__HIGH_RES.jpg) ;
   height: 288px;
   background-position: 49% 0%;
   background-size: cover;
@@ -393,7 +393,7 @@ gap: 30px;
 
 
 .card_two_image {
-  background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/im-112719.png) ;
+  background-image: url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/im-112719.png) ;
   height: 288px;
   background-position: 50% 0%;
   background-size: cover;
@@ -477,7 +477,7 @@ gap: 30px;
 }
 
 .card_three_image {
-  background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/DZanIZZUMAA3d5-.png) ;
+  background-image: url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/DZanIZZUMAA3d5-.png) ;
   height: 288px;
   background-position: 50% 51%;
   background-size: cover;

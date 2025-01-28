@@ -53,7 +53,7 @@ overflow-x: hidden;
 
 .hero{
 
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/hero2kaws.png) ;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://arxns96.github.io/KAWS/img/hero2kaws.png) ;
  /* height: 638px; */
   background-position: 50% 4%;
   background-size: cover;

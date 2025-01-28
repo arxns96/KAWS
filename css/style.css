@@ -671,7 +671,7 @@ max-width: 450px;
 
 
 .section_two_content_image {
-background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/Vista-da-instalacao-de-KAWS-Warhol-no-Andy-Warhol-Museum-em-Pittsburgh-Pensilvania-2024.png) ;
+background-image: url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/Vista-da-instalacao-de-KAWS-Warhol-no-Andy-Warhol-Museum-em-Pittsburgh-Pensilvania-2024.png) ;
 overflow: hidden;
 height: 476px;
 width: 600px;
@@ -862,7 +862,7 @@ margin: 0em 3em 3em 3em;
 
 
 .news_one {
-  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/ftcms_922f712c-5119-11e9-b401-8d9ef1626294.png) ;
+  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/ftcms_922f712c-5119-11e9-b401-8d9ef1626294.png) ;
   overflow: hidden;
   margin: 0rem 1em 0em 1em;
   background-size: cover;
@@ -914,7 +914,7 @@ margin-bottom: 15px;
 
 .news_two_content {
 
-  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/news-11.png) ;
+  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/news-11.png) ;
   background-size: cover;
   overflow: hidden;
   margin: 0rem 1em 0em 1em;
@@ -956,7 +956,7 @@ margin-bottom: 15px;
 
 .news_three_content {
 
-  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(File:///Users/arun/Desktop/Portfolio/HTML/KAWS/img/img-ex-18tw-kaws-photo01.png) ;
+  background-image: linear-gradient(to bottom, transparent 25%, #0E0E0E 100%), url(https://raw.githubusercontent.com/arxns96/KAWS/refs/heads/main/img-ex-18tw-kaws-photo01.png) ;
   background-size: cover;
   overflow: hidden;
   margin: 0rem 1em 0em 1em;

@@ -203,12 +203,9 @@ overflow-x: hidden;
    .hero_content_button .hero_btn2:hover {
 
   background-color: white;  
-  background: transparent;
-  backdrop-filter: blur(5px);
-
-  border: 1.5px solid #7E7F83;
+  border: 1.5px solid white;
   font-weight: light; !important;
-  color: #7E7F83;
+  color: #2E2E2E;
   height: 46px;
   width: 150px;
   text-align: center;
